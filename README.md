@@ -54,6 +54,11 @@ This is a collection of different REST APIs that are completely public and do no
 `https://api.chucknorris.io/jokes/random` <br>
 
 
+### React Js full course Learning Partner <Youtube>
+
+`https://freeapi.miniprojectideas.com/index.html` <br>
+
+
 
 
 
