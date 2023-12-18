@@ -63,13 +63,32 @@ This is a collection of different REST APIs that are completely public and do no
 `https://app.quickdatabasediagrams.com/#/d/ep45is` <br>
 
 
-# Category Node JS
-==================================== <br>
+# Category MEAN/MERN Stack
+ <br>
 
 ### Node.js and TypeScript Tutorial: Build a rest API with Typescript, NodeJS, and a file-based storage system.
 
 `https://dev.to/realsteveig/nodejs-and-typescript-tutorial-build-a-rest-api-with-typescript-nodejs-and-a-file-based-storage-system-2l61` <br>
 
+### JSON to Typescript interface Convert your JSON to Typescript interface. With AI
 
+`https://js2ts.com/json-to-typescript` <br>
 
+### JSON to JSON Schema
 
+`https://codebeautify.org/json-to-json-schema-generator` <br>
+
+### Route-Controller-Service structure for ExpressJS
+
+`https://devtut.github.io/nodejs/route-controller-service-structure-for-expressjs.html#model-routes-controllers-services-directory-structure` <br>
+
+### How to Build an API with Mongoose and Express.js
+
+`https://dev.to/franciscomendes10866/setup-mongodb-with-mongoose-and-express-4c58` <br>
+
+### Deploy React App on Hostinger
+`https://dev.to/mwoodson11/deploy-react-app-on-hostinger-3id5` <br>
+
+### Why API is Called Twice in React?
+
+`https://xerosource.com/why-api-is-called-twice-in-react/` <br>
