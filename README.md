@@ -58,7 +58,9 @@ This is a collection of different REST APIs that are completely public and do no
 
 `https://freeapi.miniprojectideas.com/index.html` <br>
 
+### Free ER Model Deisign
 
+`https://app.quickdatabasediagrams.com/#/d/ep45is` <br>
 
 
 
