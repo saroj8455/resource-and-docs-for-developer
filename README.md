@@ -47,3 +47,14 @@ This is a collection of different REST APIs that are completely public and do no
 `https://api.zippopotam.us/in/767001` <br>
 
 `https://documenter.getpostman.com/view/8854915/Szf7znEe` <br>
+
+
+### chucknorris.io is a free JSON API for hand-curated Chuck Norris facts. Read more
+
+`https://api.chucknorris.io/jokes/random` <br>
+
+
+
+
+
+
