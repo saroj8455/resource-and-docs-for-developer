@@ -1,6 +1,5 @@
 # resource-and-docs-for-developer
 
-===============================
 
 ### Overview
 
