@@ -97,3 +97,7 @@ This is a collection of different REST APIs that are completely public and do no
 #### Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity.
 `https://undraw.co/illustrations`
 `https://www.manypixels.co/gallery`
+
+
+### Beautiful CSS box-shadow examples
+`https://getcssscan.com/css-box-shadow-examples`
