@@ -104,3 +104,21 @@ This is a collection of different REST APIs that are completely public and do no
 
 ### Tailblocks for Tailwind Code Sbippets
 `https://tailblocks.cc/`
+
+### Skip password field when retrieve users data mongoose author @bradtraversy repo proshop_mern
+`https://github.com/bradtraversy/proshop_mern/blob/master/backend/controllers/userController.js`
+```js
+// @desc    Get user by ID
+// @route   GET /api/users/:id
+// @access  Private/Admin
+const getUserById = asyncHandler(async (req, res) => {
+  const user = await User.findById(req.params.id).select('-password')
+
+  if (user) {
+    res.json(user)
+  } else {
+    res.status(404)
+    throw new Error('User not found')
+  }
+})
+```
