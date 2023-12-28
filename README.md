@@ -101,3 +101,6 @@ This is a collection of different REST APIs that are completely public and do no
 
 ### Beautiful CSS box-shadow examples
 `https://getcssscan.com/css-box-shadow-examples`
+
+### Tailblocks for Tailwind Code Sbippets
+`https://tailblocks.cc/`
